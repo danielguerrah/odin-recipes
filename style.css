@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana;
+    color: black;
+    background-color: lightgray;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+li {
+    margin: 20px 0px 20px 0px;
+    
+}
+
+ul li {
+    list-style-type:none;
+}
+
+ol li::marker{
+    color: lightslategray;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: lightslategray;
+}
